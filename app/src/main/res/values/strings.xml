@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">converter</string>
+    <string name="whatever">Currency Converter</string>
+    <string name="imageView">imageView</string>
+    <string name="number">number</string>
+    <string name="is">is</string>
+    <string name="convert">convert</string>
+    <string name="wait">textView3</string>
+<string-array name="country1">
+    <item>America</item>
+    <item>China</item>
+    <item>England</item>
+    <item>Japanese</item>
+</string-array>
+
+<string-array name="country2">
+    <item>China</item>
+    <item>America</item>
+    <item>England</item>
+    <item>Japanese</item>
+</string-array>
+
+</resources>
+
+
