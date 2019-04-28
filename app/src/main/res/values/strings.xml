@@ -5,20 +5,22 @@
     <string name="number">number</string>
     <string name="is">is</string>
     <string name="convert">convert</string>
-    <string name="wait">textView3</string>
-<string-array name="country1">
-    <item>America</item>
-    <item>China</item>
-    <item>England</item>
-    <item>Japanese</item>
-</string-array>
-
-<string-array name="country2">
-    <item>China</item>
-    <item>America</item>
-    <item>England</item>
-    <item>Japanese</item>
-</string-array>
+    <string name="wait">wait for the result</string>
+    <string name="usd">usd</string>
+    <string-array name="country2">
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>GBP</item>
+        <item>SEK</item>
+        <item>EUR</item>
+        <item>BGN</item>
+        <item>NZD</item>
+        <item>ILS</item>
+        <item>RUB</item>
+        <item>CZK</item>
+        <item>BRL</item>
+        <item>AUD</item>
+    </string-array>
 
 </resources>
 
